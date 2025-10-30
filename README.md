@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Shrivastav</h1>
 
 <p align="center">
-  💻 Software Engineer | 📱 Mobile Developer | 🗺 Google Maps Enthusiast  
+  💻 Software Engineer | 📱 Mobile Developer | 🗺 Google Maps Enthusiast | Salesforce  
 </p>
 
 ---
